@@ -7,4 +7,4 @@ Instructions
 ------------
 
 - <kbd>Space</kbd> Switch image.
-- <kbd>&rarr;</kbd> <kbd>&larr;</kbd> Switch palette.
+- <kbd>&larr;</kbd> <kbd>&rarr;</kbd> Switch palette.
